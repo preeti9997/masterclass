@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>All about news</title>
+</head>
+<body style="background-color:lightblue;">
+<h1 style="color:red;" align="center"> Welcome to newzy!! </h1>
+<h2>  India's most trusted destination for latest India news, international news, top stories, newspaper columns, discussions, interviews and more.</h2>
+<img src="C:\Users\pc\Pictures\download.jpg" alt="tech news">
+<h3> Use the below websites to know the tech news.</h3>
+<a href="https://www.gadgetsnow.com
+"><li>www.gadgetsnow.com</li></a>
+<a href="https://www.technewsworld.com/"><li>www.technewsworld.com</li></a>
+<a href="indianexpress.com/section/technology/"><li>indianexpress.com</li></a>
+<br><img src="C:\Users\pc\Pictures\sports.jpg" alt="sports news">
+<h3> Use the below websites to know the sports news.</h3>
+<a href="www.rediff.com"><li>www.rediff.com</li></a>
+<a href="www.hindustantimes.com"><li>www.hindustantimes.com</li></a>
+<a href="https://sports.ndtv.com"><li>sports.ndtv.com</li></a>
+<br><img src="C:\Users\pc\Pictures\national.jpg" alt="national">
+<h3> Use the below websites to know about the national news.</h3>
+<a href="www.thehindu.com"><li>www.thehindu.com</li></a>
+<a href="https://in.news.yahoo.com"><li>news.yahoo.com</li></a>
+<a href="https://aajtak.intoday.in"><li>aajtak.intoday.in</li></a>
+<br><img src="C:\Users\pc\Pictures\international.jpg" alt="international">
+<h3> Use the below websites to know about the international news.</h3>
+<a href="https://www.ndtv.com/world-news"><li>www.ndtv.com</li></a>
+<a href="https://news.sky.com/world"><li>news.sky.com</li></a>
+<a href="www.euronews.com"><li>www.euronews.com</li></a>
+</body>
+</html>
